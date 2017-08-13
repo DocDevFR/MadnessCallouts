@@ -1,7 +1,0 @@
-D:\Workplace\GTA5\MadnessCallouts\MadnessCallouts\obj\Debug\MadnessCallouts.csprojResolveAssemblyReference.cache
-D:\Workplace\GTA5\MadnessCallouts\MadnessCallouts\bin\Debug\MadnessCallouts.dll
-D:\Workplace\GTA5\MadnessCallouts\MadnessCallouts\bin\Debug\MadnessCallouts.pdb
-D:\Workplace\GTA5\MadnessCallouts\MadnessCallouts\bin\Debug\LSPD First Response.dll
-D:\Workplace\GTA5\MadnessCallouts\MadnessCallouts\bin\Debug\RagePluginHookSDK.dll
-D:\Workplace\GTA5\MadnessCallouts\MadnessCallouts\obj\Debug\MadnessCallouts.dll
-D:\Workplace\GTA5\MadnessCallouts\MadnessCallouts\obj\Debug\MadnessCallouts.pdb
